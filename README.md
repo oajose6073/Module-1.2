@@ -46,3 +46,12 @@ With version control, it is possible to:
 - `git branch`: This command is used to create a new branch in your git repository.
 - `git merge`: This command is used to combine changes made in different branches into one branch.
 - `git checkout`: This command is used to switch between different branches.
+
+## My Unique Touch
+
+There are things that set me apart from others:
+
+- I think im quite tenacious; take on so many blows and i still find myself moving on. Im titanium ( reminds me of Rihanna's song)
+- I'm a loyal person, just treat me right and i will stick with you.
+- I think i consider myself a smart person.
+- Also my cooked food is delicious, i dont think there is a person on the face of the earth sho cooks a better food than me.
